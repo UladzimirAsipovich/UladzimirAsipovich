@@ -4,7 +4,7 @@ I am a Fron-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - ⚡ I’m looking for a job now.
 - 🔭 In my free time I watching in sky whith my telescope and read tech articles or books.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-VladimirOsipovich-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-VladimirOsipovich-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladimirosipovich)
 
   ---
 
