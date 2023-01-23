@@ -1,14 +1,19 @@
-### Hi there 👋
+<!--![Hi](https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/hi.gif)-->
+<h1>
+ 👋<br>
+  Hi there ―
+  my name is Vladimir, <br> 
+  and I'm front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h1>
 
-I am a Fron-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+### Some words about me:
 
-- ⚡ I’m looking for a job now.
-- 🔭 In my free time I watching in sky whith my telescope and read tech articles or books.
+- 🍺 Beside programming, I am interested in astronomy🔭, read tech articles or books and enjoy to play sports like gym, bike and other activities⚡;
+- 🎯 Contact me on [Telegram](https://t.me/juliencrn), we can chat in RUS, EN lang;
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-VladimirOsipovich-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladimirosipovich)
 
-  ---
-
-###  🛠 &nbsp;Languages and Tools :
+---
+###  🛠 &nbsp;Some technologies I like working with :
 
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -26,5 +31,7 @@ I am a Fron-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootsrap" alt="Bootsrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
 </p>
-  
-  ---
+
+---
+
+### ― See ya! 👋
